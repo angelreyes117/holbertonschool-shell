@@ -1,4 +1,4 @@
-holbertonschool-shell Repository
+Repository holbertonschool-shell
 
 Description:
 
