@@ -24,3 +24,10 @@ SCRIPTS DESCRIPTION:
 22. **21-reverse**: Reverses the input.
 23. **22-users_and_homes**: Displays all users and their home directories, sorted by users.
 
+ADVANCED :
+
+24. **23-empty_casks**: Finds all empty files and directories in the current directory and subdirectories, listing their names without the entire path.
+25. **24-gifs**: Lists all .gif files in the current directory and subdirectories, displaying names without extensions, sorted by byte values (case-insensitive).
+26. **25-acrostic**: Decodes an acrostic from the input, outputting the first letters of each line as a message.
+27. **26-the_biggest_fan**: Parses web server logs in TSV format and displays the 11 hosts or IP addresses with the most requests, ordered by activity.
+
