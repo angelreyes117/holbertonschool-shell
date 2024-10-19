@@ -16,3 +16,11 @@ SCRIPTS DESCRIPTION:
 14. **13-print_float**: Prints a number with two decimal places, where the number is stored in the environment variable `NUM`.
 15. **14-decimal_to_hexadecimal**: Converts a decimal number from the environment variable `DECIMAL` to hexadecimal.
 
+ADVANCED:
+
+16. **15-rot13**: A script that encodes and decodes text using ROT13 encryption. It takes input and applies the ROT13 cipher, which shifts letters by 13 positions in the alphabet.
+
+17. **16-odd**: A script that prints every other line from the input, starting with the first line. It effectively filters out alternating lines from any input stream.
+
+18. **17-water_and_stir**: A script that adds two numbers stored in the environment variables WATER and STIR, each in custom numeric bases ("water" and "stir"). The result is printed in base "bestchol."
+
